@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+.h1{
+color: blue;
+}
+.nav{
+color: red;
+}
+.p{
+	color: yellow;
+	text-align: center;
+}
+.h{
+	text-align-last: right;
+	color: pink;
+	font-weight: lighter;
